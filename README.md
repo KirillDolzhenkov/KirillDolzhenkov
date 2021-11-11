@@ -10,6 +10,11 @@
 ![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
+### You can find me there
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/Ansh1n)
+
+#### or
+
 ### ✉️ Mail me: k.dolzhenkov@gmail.com
-### 🌐 [Telegram:](https://t.me/Ansh1n) @Ansh1n
-### 🌐 [LinkedIn: ](https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/) Kirill Dolzhenkov
