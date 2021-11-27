@@ -13,7 +13,7 @@
 ### You can find me there
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/)
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/Ansh1n)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/AN5H1N)
 
 #### or
 
