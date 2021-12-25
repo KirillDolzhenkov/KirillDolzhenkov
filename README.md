@@ -24,4 +24,3 @@
 [gmail]: k.dolzhenkov@gmail.com
 [telegram]: https://t.me/AN5H1N
 [linkedin]: https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/
-[codewars]: 
