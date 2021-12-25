@@ -17,7 +17,8 @@
 
 #### or
 
-### ✉️ Mail me: [<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
+### ✉️ Mail me: 
+[<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
 
 [gmail]: k.dolzhenkov@gmail.com
 [telegram]: https://t.me/AN5H1N
