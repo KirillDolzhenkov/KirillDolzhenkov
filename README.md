@@ -15,11 +15,13 @@
 [<img align="left" alt="Telegram" width="38px" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/>][telegram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png"/>][linkedin]
 
+</br>
 #### or
 
+</br>
 ### ✉️ Mail me: 
 [<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
 
-[gmail]: k.dolzhenkov@gmail.com
+[gmail]: mailto:k.dolzhenkov@gmail.com
 [telegram]: https://t.me/AN5H1N
 [linkedin]: https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/
