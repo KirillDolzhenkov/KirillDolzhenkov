@@ -11,12 +11,10 @@
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
 ### You can find me there
-
-[<img align="left" alt="Telegram" width="38px" src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png"/>][telegram]
-[<img align="left" alt="LinkedIn" width="26px" src="https://oprojektowaniu.pl/wp-content/uploads/2017/02/official-linkedin-logo-tile.png"/>][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
 #### or
-
 ### ✉️ Mail me: 
 [<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
 
