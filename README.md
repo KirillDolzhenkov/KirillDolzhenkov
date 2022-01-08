@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-# ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-282828?style=for-the-badge&logo=css3&logoColor=9966CC) ![Material UI](https://img.shields.io/badge/-Material&#032;UI-090909?style=for-the-badge) ![CSS Modules](https://img.shields.io/badge/-CSS&#032;Modules-282828?style=for-the-badge&logo=less&logoColor=9966CC) ![Styled Components](https://img.shields.io/badge/-Styled&#032;Components-090909?style=for-the-badge)
+# ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3) ![Material UI](https://img.shields.io/badge/-Material&#032;UI-090909?style=for-the-badge) ![CSS Modules](https://img.shields.io/badge/-CSS&#032;Modules-282828?style=for-the-badge) ![Styled Components](https://img.shields.io/badge/-Styled&#032;Components-090909?style=for-the-badge)
 ![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
