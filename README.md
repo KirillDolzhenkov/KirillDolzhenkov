@@ -10,13 +10,11 @@
 ![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
-### You can find me there
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
+### You can find me there:
 
-#### or
-### ✉️ Mail me: 
-[<img align="left" alt="GMail" width="38px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>][gmail]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=9966CC)][linkedin]
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram&logoColor=9966CC)][telegram]
+[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail&logoColor=9966CC)][gmail]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
 [telegram]: https://t.me/AN5H1N
