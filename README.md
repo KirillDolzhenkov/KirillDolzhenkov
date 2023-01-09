@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is **Kirill Dolzhenkov**!
-## beginer React Front-end developer
+## beginner React Front-end developer
 ### Languages and Technologies
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
