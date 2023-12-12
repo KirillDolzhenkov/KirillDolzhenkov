@@ -18,4 +18,4 @@
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
 [telegram]: https://t.me/AN5H1N
-[linkedin]: https://www.linkedin.com/in/kirill-dolzhenkov-a30557206/
+[linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/
