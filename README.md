@@ -25,9 +25,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
-
-<br>
-<img align="left" alt="Codewars" width="350px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>[codewars]
+[<img align="left" alt="Codewars" width="350px" src="https://www.codewars.com/users/Dergacz/badges/small"/>][codewars]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
 [linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/
