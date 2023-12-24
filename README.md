@@ -25,6 +25,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [<img align="left" alt="Codewars" width="350px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>][codewars]
 
 <br>
+<br>
 
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
