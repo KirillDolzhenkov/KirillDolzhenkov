@@ -22,10 +22,11 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 ### You can find me there:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=9966CC)][linkedin]
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram&logoColor=9966CC)][telegram]
-[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail&logoColor=9966CC)][gmail]
+#### ✉️ Mail: k.dolzhenkov@gmail.com
+[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
-[telegram]: https://t.me/AN5H1N
 [linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/
+[telegram]: https://t.me/AN5H1N
