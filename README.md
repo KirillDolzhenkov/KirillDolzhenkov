@@ -22,7 +22,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 ### You can find me there:
 
-[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail] k.dolzhenkov@gmail.com
+[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
