@@ -16,10 +16,6 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### 💹 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolzhenkov&theme=tokyonight)
-
 ### You can find me there:
 
 [<img align="left" alt="Codewars" width="350px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>][codewars]
@@ -30,6 +26,10 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
+
+### 💹 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolzhenkov&theme=tokyonight)
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
 [linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/
