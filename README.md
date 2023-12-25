@@ -14,8 +14,6 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ### 💹 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolzhenkov&theme=tokyonight)
@@ -27,8 +25,10 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 <br>
 <br>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
+
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn-blue)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
