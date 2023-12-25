@@ -19,16 +19,15 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolzhenkov&theme=tokyonight)
 
 ### You can find me there:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
 
 [<img align="left" alt="Codewars" width="350px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>][codewars]
 
 <br>
 <br>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
-
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn-blue)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn=blue)][linkedin]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com
