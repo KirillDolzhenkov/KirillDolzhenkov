@@ -14,7 +14,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jbGgzbnd5cGZrb2I4b3BhbmxtdXMzMHM2MGI0YjZxbWVzaGQyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNrOTkxMWYwYTBhbWxxeDdnZmxueTF5OWV4dnhxaTNyajA2eTZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="240">
 
 ### 💹 Stats
 
