@@ -1,9 +1,9 @@
 # Hello, I'm Kirill Dolzhenkov 👋
- 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNrOTkxMWYwYTBhbWxxeDdnZmxueTF5OWV4dnhxaTNyajA2eTZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="220">
 
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqdXhlYmo0MHA0OHk3N2QwY3Eya3RwYm81dmx3MjUxZmdleXhpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D6aoDE0OSYiYojubBW/giphy.gif" width="110">
 ### 💻 Languages and tools:
 
 <p>
@@ -21,14 +21,14 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 💹 Stats
+### 💹 Stats:
 <div id="stat" align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirillDolzhenkov&theme=tokyonight" width="842" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirillDolzhenkov&theme=tokyonight" width="420" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillDolzhenkov&theme=tokyonight" width="420" alt=""/>
 </div>
 
-### You can find me there:
+### You can find me there: 
 
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
