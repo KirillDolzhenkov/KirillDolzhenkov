@@ -3,7 +3,6 @@
 
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNqdXhlYmo0MHA0OHk3N2QwY3Eya3RwYm81dmx3MjUxZmdleXhpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D6aoDE0OSYiYojubBW/giphy.gif" width="110">
 ### 💻 Languages and tools:
 
 <p>
