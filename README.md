@@ -4,7 +4,7 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 
 ### 💻 Tech Stack:
 
-(<img align="right" src="./assets/cat.gif" width="220">)
+![](<img align="right" src="./assets/cat.gif" width="220">)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
