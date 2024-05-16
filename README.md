@@ -44,14 +44,15 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 💹 Stats:
+### ⚙️ &nbsp;GitHub Analytics:
+
 <div id="stat" align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirillDolzhenkov&theme=tokyonight" width="842" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirillDolzhenkov&theme=tokyonight" width="420" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillDolzhenkov&theme=tokyonight" width="420" alt=""/>
 </div>
 
-### You can find me there: 
+### 🤝🏻 &nbsp;Connect with Me:
 
 [![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
