@@ -55,11 +55,9 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [![Telegram Badge](https://img.shields.io/badge/-@AN5H1N-0088CC?style=flat&logo=Telegram&logoColor=white)][telegram]
 [<img alt="Codewars" width="300px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>][codewars]
 [![Instagram Badge](https://img.shields.io/badge/-k.dolzhenkov-E4405F?style=flat&logo=Instagram&logoColor=white)][instagram]
-[![Messenger Badge](https://img.shields.io/badge/-VK-0078FF?style=flat&logo=VK&logoColor=white)][vk]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com "Connect via Email"
 [linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/ "Connect on LinkedIn"
 [telegram]: https://t.me/AN5H1N "Contact on Telegram"
 [codewars]: https://www.codewars.com/users/AN5H1N/published_translations "Check my codewars"
 [instagram]: https://www.instagram.com/k.dolzhenkov/ "Follow on Instagram"
-[vk]: https://vk.com/an5h1n "Connect on VK"
