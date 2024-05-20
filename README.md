@@ -1,9 +1,9 @@
-# Hello, I'm Kirill Dolzhenkov <img alt="Night Coding" src="./assets/handWave.gif" width='35' heigth='35'/>
+# Hello, I'm Kirill Dolzhenkov <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
 
 ### 💻 Tech Stack:
-<img align="right" src="./assets/codingCat.gif" width="220">
+<img align="right" src="./assets/codingCat.gif" width="220" alt="Coding Cat" />
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -54,10 +54,12 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [![Linkedin Badge](https://img.shields.io/badge/-KyrillDolzhenkov-0072b1?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 [![Telegram Badge](https://img.shields.io/badge/-@AN5H1N-0088CC?style=flat&logo=Telegram&logoColor=white)][telegram]
 [<img alt="Codewars" width="300px" src="https://www.codewars.com/users/AN5H1N/badges/small"/>][codewars]
+[![Offerheap Badge](https://img.shields.io/badge/-Kirill%20Dolzhenkov-FED745?style=flat&logo=Offerheap&logoColor=white)][offerheap]
 [![Instagram Badge](https://img.shields.io/badge/-k.dolzhenkov-E4405F?style=flat&logo=Instagram&logoColor=white)][instagram]
 
 [gmail]: mailto:k.dolzhenkov@gmail.com "Connect via Email"
 [linkedin]: https://www.linkedin.com/in/kyrill-dolzhenkov-a30557206/ "Connect on LinkedIn"
 [telegram]: https://t.me/AN5H1N "Contact on Telegram"
 [codewars]: https://www.codewars.com/users/AN5H1N/published_translations "Check my codewars"
+[offerheap]: https://offerheap.com/specialist/KirillDolzhenkov "Check my offerheap"
 [instagram]: https://www.instagram.com/k.dolzhenkov/ "Follow on Instagram"
