@@ -1,6 +1,7 @@
 # Hello, I'm Kirill Dolzhenkov <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
+I quickly adapt to new technologies, pay attention to code quality, performance, and documentation. I actively follow trends and study modern development approaches. In my free time, I manage a small community where we discuss tasks and share experience in development.
 
 ### 💻 Tech Stack:
 <img align="right" src="./assets/codingCat.gif" width="220" alt="Coding Cat" />
