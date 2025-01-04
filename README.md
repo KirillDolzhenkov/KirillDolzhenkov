@@ -52,8 +52,8 @@ I quickly adapt to new technologies, pay attention to code quality, performance,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-2D80FF.svg?&style=square&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?&style=square&logo=slack&logoColor=fff)
+![Jira](https://img.shields.io/badge/jira-2D80FF.svg?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
 
 ### ⚙️ &nbsp;GitHub Analytics:
 <div id="stat" align="left">
