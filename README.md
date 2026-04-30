@@ -1,7 +1,12 @@
 # Hello, I'm Kirill Dolzhenkov <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
-I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs.
-I quickly adapt to new technologies, pay attention to code quality, performance, and documentation. I actively follow trends and study modern development approaches. In my free time, I manage a small community where we discuss tasks and share experience in development.
+I'm a frontend developer passionate about building interactive, performant, and user-friendly web applications. 
+
+My core expertise lies in modern React ecosystem, including TypeScript, Redux Toolkit, Zustand, TanStack Query, and component architecture. I specialize in creating scalable, well-tested applications using Jest, React Testing Library, and Cypress.
+
+I’m particularly passionate about Design Systems, clean architecture, and building maintainable frontend solutions. I pay great attention to code quality, performance, accessibility, and documentation.
+
+I quickly adapt to new technologies and actively follow current trends in frontend development. In my free time, I run a small developer community where we discuss challenging tasks and share practical experience.
 
 ### 💻 Tech Stack:
 <img align="right" src="./assets/codingCat.gif" width="220" alt="Coding Cat" />
