@@ -61,13 +61,13 @@ I quickly adapt to new technologies and actively follow current trends in fronte
 
 ### ⚙️ &nbsp;GitHub Analytics:
 <div id="stat" align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirillDolzhenkov&theme=tokyonight" width="96.5%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirillDolzhenkov&theme=tokyonight&animation=sequence" width="96.5%" alt=""/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirillDolzhenkov&theme=tokyonight" width="48%" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirillDolzhenkov&theme=tokyonight" width="48%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirillDolzhenkov&theme=tokyonight&animation=sequence" width="48%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirillDolzhenkov&theme=tokyonight&animation=sequence" width="48%" alt=""/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillDolzhenkov&theme=tokyonight" width="48%" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KirillDolzhenkov&theme=tokyonight" width="48%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillDolzhenkov&theme=tokyonight&animation=sequence" width="48%" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KirillDolzhenkov&theme=tokyonight&animation=sequence&utcOffset=0" width="48%" alt=""/>
 </div>
 
 ### <img src="./assets/spaceCat.gif" width="50"> &nbsp;Connect with Me:
