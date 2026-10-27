@@ -1,4 +1,4 @@
-# Hello, I'm Kirill Dolzhenkov <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
+# Hey, I'm Kirill <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
 I'm a frontend developer focused on building maintainable React applications with TypeScript.
 
