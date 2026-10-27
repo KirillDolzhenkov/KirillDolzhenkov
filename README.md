@@ -1,10 +1,10 @@
 # Hey, I'm Kirill <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
-I'm a frontend developer focused on building maintainable React applications with TypeScript.
+I'm interested in building reusable components, designing predictable state management, and keeping React applications maintainable as they grow.
 
-I'm interested in frontend architecture, reusable components, state management, Design Systems, and testing. I enjoy solving challenging problems and exploring different approaches to building reliable applications.
+My main interests are Design Systems, frontend architecture, and testing. I enjoy tackling challenging problems, exploring different technical approaches, and sharing practical knowledge with other developers.
 
-Outside of frontend development, I'm exploring Go and backend engineering. I also run a small developer community where we discuss technical challenges and share practical experience.
+Outside of coding, I run a small developer community where we discuss technical challenges and learn from each other's experience. I'm also exploring Go and backend development in my free time.
 
 ### 💻 Tech Stack:
 <img align="right" src="./assets/codingCat.gif" width="220" alt="Coding Cat" />
