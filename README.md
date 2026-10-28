@@ -1,10 +1,10 @@
 # Hey, I'm Kirill <img src="./assets/handWave.gif" width="35" heigth="35" alt="hand Wave"/>
 
-I'm interested in building reusable components, designing predictable state management, and keeping React applications maintainable as they grow.
+I'm a frontend developer focused on building reusable components, designing predictable state management, and keeping React applications maintainable as they grow.
 
-My main interests are Design Systems, frontend architecture, and testing. I enjoy tackling challenging problems, exploring different technical approaches, and sharing practical knowledge with other developers.
+My main areas of interest are Design Systems, frontend architecture, and testing. I enjoy solving complex problems, evaluating different technical approaches, and sharing practical knowledge with other developers.
 
-Outside of coding, I run a small developer community where we discuss technical challenges and learn from each other's experience. I'm also exploring Go and backend development in my free time.
+Outside of coding, I run a small developer community where we discuss technical challenges and share what we've learned. I'm also exploring Go and backend development to better understand how applications work end to end.
 
 ### 💻 Tech Stack:
 <img align="right" src="./assets/codingCat.gif" width="220" alt="Coding Cat" />
